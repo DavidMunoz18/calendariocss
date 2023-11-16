@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+caption{
+	border: solid black;
+	background-color: lightgreen;
+}
+table{
+
+	border: solid  black;
+	border-collapse: collapse;
+	
+}
+th{
+	border: solid black
+}
+td{
+	border: solid black;
+	
+}
+.lun{
+	background-color: yellow;
+}
+.mar{
+	background-color: red;
+}
+.jue{
+	background-color: green;
+}
+.vie{
+	background-color: orange;
+}
+.sab{
+	background-color: purple;
+}
+.dom{
+	background-color: blue;
+}
+.oct:hover{
+	background-color: blue;
+}
+.nov:hover{
+	background-color: yellow;
+}
+.dic:hover{
+	background-color: red;
+}
